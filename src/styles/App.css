@@ -9,3 +9,7 @@ button{
 button:hover{
     border: 2px solid #d1d1d1;
 }
+p{
+    font-size: xx-large;
+    font-weight: 700;
+}
